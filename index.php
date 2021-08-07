@@ -1,5 +1,7 @@
 <?php
 
-  echo "Olá Mundo";
+  echo "Olá lindo";
+
+  echo "Olá hans";
 
 ?>
